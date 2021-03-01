@@ -1,0 +1,7 @@
+C:\Users\Gutemberg Silva\source\repos\IdadePessoaEmAnos\bin\Debug\IdadePessoaEmAnos.exe.config
+C:\Users\Gutemberg Silva\source\repos\IdadePessoaEmAnos\bin\Debug\IdadePessoaEmAnos.exe
+C:\Users\Gutemberg Silva\source\repos\IdadePessoaEmAnos\bin\Debug\IdadePessoaEmAnos.pdb
+C:\Users\Gutemberg Silva\source\repos\IdadePessoaEmAnos\obj\Debug\IdadePessoaEmAnos.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\IdadePessoaEmAnos\obj\Debug\IdadePessoaEmAnos.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\IdadePessoaEmAnos\obj\Debug\IdadePessoaEmAnos.exe
+C:\Users\Gutemberg Silva\source\repos\IdadePessoaEmAnos\obj\Debug\IdadePessoaEmAnos.pdb
